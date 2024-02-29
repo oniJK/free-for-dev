@@ -1,7 +1,7 @@
 <<<<<<< HEAD
 aokokok# free-for.dev
 =======
-asskssaahjo# free-for.dev
+aasskssaahjo# free-for.dev
 >>>>>>> branch1
 
 Developers and Open Source authors now have many services offering free tiers, but finding them all takes time to make informed decisions.
